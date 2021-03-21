@@ -85,5 +85,50 @@ Images provided below shows 3.1, 3.2, 3.3 for ID 940 and few other IDs -ID958, .
 
 
 
+## 3. Deliverable 3 Requirements
+
+
+#### 3.1The code to build the gauge chart does the following: 
+##### 3.1.1 Creates a title for the chart.
+##### 3.1.2 Creates the ranges for the gauge in increments of two, with a different color for each increment.
+##### 3.1.3 Adds the washing frequency value on the gauge chart.
+##### 3.1.4 The indicator shows the level for the washing frequency on the gauge.
+##### 3.1.5 The gauge is added to the dashboard.
+##### 3.1.6  The gauge fits in the margin of the <div> element.
+ 
+
+  
+<img width="711" alt="Screen Shot 2021-03-21 at 3 45 40 PM" src="https://user-images.githubusercontent.com/75267605/111920878-daad7f00-8a67-11eb-992b-8c7bdd3630b1.png">
+
+
+
+
+
+ <img width="1664" alt="Screen Shot 2021-03-21 at 3 47 20 PM" src="https://user-images.githubusercontent.com/75267605/111920897-f4e75d00-8a67-11eb-8842-7c2d84579eb3.png">
+
+
+  
+  
+#### 3.2 When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively, and the gauge chart is working according to the requirements listed for this Deliverable 
+
+
+<img width="1666" alt="Screen Shot 2021-03-21 at 3 56 00 PM" src="https://user-images.githubusercontent.com/75267605/111920906-0af51d80-8a68-11eb-9ef7-4bca82ba6425.png">
+
+
+
+
+
+## 4. Deliverable 4 
+You will earn a perfect score for Deliverable 4 by completing all requirements below:
+
+The webpage has three customizations. (10 pt)
+When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and all three charts should be working according to the requirements when a sample is selected from the dropdown menu (5 pt)
+
+
+
+
+
+
+
 
 

@@ -1,6 +1,20 @@
 # Plotly Deploy
 Belly button analysis 
 
+
+## PROJECT OVERVIEW
+
+Plotly data analysis of Belly buttons is a research project where bacterial samples of number of volunteers were taken to identfy which sample is ideal to produce synthetic beef.
+The intent of the research is to use the samples taken from the belly buttons of the volunteers to match with the right bacteria from which lab beef could be produced.
+
+
+The bacterial samples have been accumulated on the web page in order to provide ease of access to each volunteer to possibly see the Top 10 bacterial types found in their belly buttons. Once the specific bacteria is identified to make synthetic beef then the volunteers can check their own Top 10 bacterias whether they match with the identified bacteria. Volunteers can select their :
+
+
+##### 1. 'ID' number from drop down menu under "Test Subject Id No:". 
+##### 2.Once ID is selected, the relevant bacterial cultures in bar and bubble charts are displayed. 
+##### 3.The volunteers can also see their "Belly Button washing frequency" on the guage chart.
+
 ## 1. Deliverable 1 
 
 #### 1. Code is written to create the arrays when a sample is selected from the dropdown menu 

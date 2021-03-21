@@ -119,10 +119,29 @@ Images provided below shows 3.1, 3.2, 3.3 for ID 940 and few other IDs -ID958, .
 
 
 ## 4. Deliverable 4 
-You will earn a perfect score for Deliverable 4 by completing all requirements below:
 
-The webpage has three customizations. (10 pt)
-When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and all three charts should be working according to the requirements when a sample is selected from the dropdown menu (5 pt)
+#### 4.1The webpage has three customizations. 
+
+
+Yes as advised three customization for the layouts was done and visible the charts.js 
+
+
+#### 4.2 When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and all three charts should be working according to the requirements when a sample is selected from the dropdown menu 
+
+
+<img width="1098" alt="Screen Shot 2021-03-21 at 5 13 07 PM" src="https://user-images.githubusercontent.com/75267605/111921024-bf8f3f00-8a68-11eb-9db1-f2fd44e7f89c.png">
+
+
+
+
+
+<img width="1142" alt="Screen Shot 2021-03-21 at 5 00 44 PM" src="https://user-images.githubusercontent.com/75267605/111920953-590a2100-8a68-11eb-8c1a-05bd2f797274.png">
+
+
+
+
+
+<img width="1165" alt="Screen Shot 2021-03-21 at 5 01 13 PM" src="https://user-images.githubusercontent.com/75267605/111920999-9ec6e980-8a68-11eb-87b4-4e72566bd2c0.png">
 
 
 
